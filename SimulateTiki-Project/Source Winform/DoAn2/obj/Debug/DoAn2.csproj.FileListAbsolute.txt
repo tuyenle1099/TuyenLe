@@ -1,0 +1,28 @@
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.Form1.resources
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.thongTinTaiKhoan.resources
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.theoDoiDonHang.resources
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.danhMucSP.resources
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.gioHang.resources
+C:\Users\DELL\Desktop\năm 3_ hk1\csdlnc\DoAn2\DoAn2\obj\Debug\DoAn2.Login.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\DELL\Desktop\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+C:\Users\DELL\Desktop\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.Form1.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.gioHang.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.Login.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.theoDoiDonHang.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.thongTinTaiKhoan.resources
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.SoDiaChi.resources
